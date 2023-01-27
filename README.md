@@ -6,7 +6,7 @@
 #### Here are some samples:
 
 ##### Simple Input: 
-<img src="./SimpleCalculator/app/src/main/res/layout/input1.jpg" width="100" height="600" border="10"/>
+<img src="./SimpleCalculator/app/src/main/res/layout/Input1.jpg" width="100" height="600" border="10"/>
 Output :
 <img src="./SimpleCalculator/app/src/main/res/layout/output.jpg" width="100" height="600" border="10"/>
 
