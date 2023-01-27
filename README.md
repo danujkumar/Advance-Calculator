@@ -8,10 +8,10 @@
 ##### Simple Input: 
 <img src="./SimpleCalculator/app/src/main/res/layout/Input1.jpg" width="250" height="500" border="10"/>
 Output :
-<img src="./SimpleCalculator/app/src/main/res/layout/output.jpg" width="100" height="600" border="10"/>
+<img src="./SimpleCalculator/app/src/main/res/layout/Output.jpg" width="250" height="500" border="10"/>
 
 
 ##### Complex Input: 
-<img src="./SimpleCalculator/app/src/main/res/layout/input.jpg" width="100" height="600" border="10"/>
+<img src="./SimpleCalculator/app/src/main/res/layout/Input.jpg" width="250" height="500" border="10"/>
 Output :
-<img src="./SimpleCalculator/app/src/main/res/layout/outpyt.jpg" width="100" height="600" border="10"/>
+<img src="./SimpleCalculator/app/src/main/res/layout/Outpyt.jpg" width="250" height="500" border="10"/>
