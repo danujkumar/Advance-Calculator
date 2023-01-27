@@ -7,11 +7,11 @@
 
 ##### Simple Input: 
 <img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/toosmall.png" width="500" height="100" border="10"/>
-###### Output :
+Output :
 <img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/noissue.png" width="500" height="100" border="10"/>
 
 
 ##### Complex Input: 
 <img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/toosmall.png" width="500" height="100" border="10"/>
-###### Output :
+Output :
 <img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/noissue.png" width="500" height="100" border="10"/>
