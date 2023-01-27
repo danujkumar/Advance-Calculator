@@ -6,12 +6,12 @@
 #### Here are some samples:
 
 ##### Simple Input: 
-<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/toosmall.png" width="500" height="100" border="10"/>
+<img src="./SimpleCalculator/app/src/main/res/layout/input1.jpg" width="100" height="600" border="10"/>
 Output :
-<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/noissue.png" width="500" height="100" border="10"/>
+<img src="./SimpleCalculator/app/src/main/res/layout/output.jpg" width="100" height="600" border="10"/>
 
 
 ##### Complex Input: 
-<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/toosmall.png" width="500" height="100" border="10"/>
+<img src="./SimpleCalculator/app/src/main/res/layout/input.jpg" width="100" height="600" border="10"/>
 Output :
-<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/noissue.png" width="500" height="100" border="10"/>
+<img src="./SimpleCalculator/app/src/main/res/layout/outpyt.jpg" width="100" height="600" border="10"/>
